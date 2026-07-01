@@ -1,11 +1,22 @@
 {
   "plugin_name": "Floora",
-  "latest_version": "2.1.0",
+  "latest_version": "1.0.0",
+  "min_required_version": "1.0.0",
   "title_en": "DB3D-Floora Update",
   "title_zh_tw": "DB3D-Floora 更新通知",
-  "message_en": "DB3D-Floora is up to date.",
-  "message_zh_tw": "DB3D-Floora 已是最新版本。",
+  "message_en": "DB3D-Floora 1.0.0 is the current version.",
+  "message_zh_tw": "DB3D-Floora 1.0.0 已是目前最新版本。",
+  "release_date": "2026-07-01",
+  "download_url": "https://www.db3drender.com/",
+  "changelog_url": "https://www.db3drender.com/",
+  "hub_url": "https://www.db3drender.com/",
   "website_url": "https://www.db3drender.com/",
   "course_url": "https://www.db3drender.com/",
-  "instagram_url": "https://www.instagram.com/db3d.render/"
+  "instagram_url": "https://www.instagram.com/db3d.render/",
+  "feedback_url": "https://docs.google.com/forms/d/e/1FAIpQLSecrR9oZBwa-d_AvWxKiNjT7u3yjk76J-4lKfMiIcvAnGWjmQ/viewform",
+  "hub_notice": {
+    "enabled": true,
+    "message_en": "Bluform Hub integration is coming soon. Future updates will be managed from the Hub.",
+    "message_zh_tw": "Bluform Hub 整合即將推出，之後更新會改由 Hub 管理。"
+  }
 }
