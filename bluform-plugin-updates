@@ -1,0 +1,11 @@
+{
+  "plugin_name": "Floora",
+  "latest_version": "2.1.0",
+  "title_en": "DB3D-Floora Update",
+  "title_zh_tw": "DB3D-Floora 更新通知",
+  "message_en": "DB3D-Floora is up to date.",
+  "message_zh_tw": "DB3D-Floora 已是最新版本。",
+  "website_url": "https://www.db3drender.com/",
+  "course_url": "",
+  "instagram_url": "https://www.instagram.com/db3d.render/"
+}
