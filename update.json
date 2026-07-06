@@ -1,15 +1,15 @@
 {
   "plugin_name": "Floora",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "min_required_version": "1.0.0",
   "title_en": "DB3D-Floora Update",
-  "title_zh_tw": "DB3D-Floora \u66f4\u65b0\u901a\u77e5",
-  "message_en": "DB3D-Floora 1.0.1 is available. Brick, tile, and wood patterns now use the faster Polygon Engine while I-Block and complex patterns keep the original engine.",
-  "message_zh_tw": "DB3D-Floora 1.0.1 \u5df2\u53ef\u4e0b\u8f09\u3002\u78da\u7e2b\u3001\u5c0d\u7e2b\u3001\u6728\u5730\u677f\u6539\u7528\u66f4\u5feb\u7684 Polygon Engine\uff0c\u5de5\u5b57\u578b\u8207\u8907\u96dc\u5716\u6a23\u4fdd\u7559\u539f\u672c\u5f15\u64ce\u3002",
-  "release_date": "2026-07-02",
-  "download_url": "https://drive.google.com/file/d/10o1oQXSkwGwpBxxWceH1kF4siuDZbi0P/view?usp=sharing",
+  "title_zh_tw": "DB3D-Floora 更新通知",
+  "message_en": "DB3D-Floora 1.0.2 is available. This update adds a manual update-check button, fixes Brick to true 1/2 stagger, improves I-Block generation coverage, and makes manual update checking more reliable.",
+  "message_zh_tw": "DB3D-Floora 1.0.2 已可下載。本次更新新增手動檢查更新按鈕，修正磚縫為標準 1/2 交丁，改善工字型生成完整度，並提升手動檢查更新的穩定性。",
+  "release_date": "2026-07-06",
+  "download_url": "https://drive.google.com/file/d/1gZGqq8JlP3MZcpm4dhybzDkAV1ptNEl1/view?usp=sharing",
   "changelog_url": "https://vimeo.com/1206365072?share=copy&fl=sv&fe=ci",
-  "hub_url": "https://drive.google.com/file/d/1S1Eiwu4i8WEKtSR6i2lJYIe3F80jPIIv/view?usp=drive_link",
+  "hub_url": "https://www.db3drender.com/",
   "website_url": "https://www.db3drender.com/",
   "course_url": "https://www.db3drender.com/",
   "instagram_url": "https://www.instagram.com/db3d.render/",
@@ -17,6 +17,6 @@
   "hub_notice": {
     "enabled": true,
     "message_en": "Bluform Hub integration is coming soon. Future updates will be managed from the Hub.",
-    "message_zh_tw": "Bluform Hub \u6574\u5408\u5373\u5c07\u63a8\u51fa\uff0c\u4e4b\u5f8c\u66f4\u65b0\u6703\u6539\u7531 Hub \u7ba1\u7406\u3002"
+    "message_zh_tw": "Bluform Hub 整合即將推出，之後更新會改由 Hub 管理。"
   }
 }
